@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartha1986&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartha1986" /> </p>
 
+<h3>👨‍💻 Theses:</h3>
+- [Bachelor Thesis: Greenhouse Automation and Monitoring/analysis](https://www.theseus.fi/handle/10024/812774)
+
+
 - 🔭 I’m currently working on **Image classification AI model to detect construction site material for commercial use, using Google Cloud, Vertex AI(AUTOML)**
 
 - 🌱 I’m currently learning **Data analysis, Artificial Intelligence**
