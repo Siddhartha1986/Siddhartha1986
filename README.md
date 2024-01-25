@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartha1986&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartha1986" /> </p>
 
-<h3>📝 Theses</h3>
+## 📝 Theses
 
  - Bachelor Thesis: [Greenhouse Automation, Implementation, Monitoring & Analysis](https://www.theseus.fi/handle/10024/812774)
 
@@ -14,14 +14,14 @@
 
  - [RESUME](https://drive.google.com/file/d/1c4-uilYO7aw8mdGgzmScdiffWYkiR3bE/view?usp=sharing) 
 
-<h3>🔭 Work Experience</h3>
+## 🔭 Work Experience
 
  - Internship: (13.09.2013 to 13.02.2024)
    - Company: [Metropolia AIoT Garage](https://www.metropolia.fi/en/rdi/collaboration-platforms/garage)
     
    - Role: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
-<h3>👨‍💻 Data-Analysis/ML based portfolio Projects</h3>
+## 👨‍💻 Data-Analysis/ML based portfolio Projects
 
  - [Portfolio Website](https://siddhartha1986.github.io/SiddharthaPortfolio.github.io/)
 
@@ -29,7 +29,7 @@
 
  - [Irish-Data-ML-Model](https://github.com/Siddhartha1986/Iris-data-ML), [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
 
-<h3>👨‍💻 IoT Based Projects</h3>
+## 👨‍💻 IoT Based Projects 
 
 - Hackathon: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
    - [Report](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/Documentation.pdf), [Source Code](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/HACKATHON/src/HACKATHON.cpp)
@@ -39,13 +39,15 @@
   
 - [Smart Biometric door lock system using ESP32](https://github.com/Siddhartha1986/Smart-Biometric-Door-Lock/tree/main)   
 
-<h3>👨‍💻 Python Based Minor Projects</h3>
+## 👨‍💻 Python Based Minor Projects
 
-- [Web Scrapping Amazon Website](https://github.com/Siddhartha1986/webscrapping123/tree/main)
+- Web Scrapping
+
+  - [Web Scrapping Amazon Website](https://github.com/Siddhartha1986/webscrapping123/tree/main)
+    
+  - [US Largest Companies Web Scraper](https://github.com/Siddhartha1986/webScarpping_table/tree/main)
   
-- [US Largest Companies Web Scraper](https://github.com/Siddhartha1986/webScarpping_table/tree/main)
-
--
+  - [Flipkart Laptop Data Scrapper](https://github.com/Siddhartha1986/Scrapping2)
 
 
 
