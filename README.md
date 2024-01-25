@@ -6,11 +6,41 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhartha1986&label=Profile%20views&color=0e75b6&style=flat" alt="siddhartha1986" /> </p>
 
-<h3>👨‍💻 Theses:</h3>
+<h3>📝 Theses</h3>
 
-- 📝 Bachelor Thesis: [GREENHOUSE AUTOMATION, MONITORING & ANALYSIS](https://www.theseus.fi/handle/10024/812774)
+ - Bachelor Thesis: [Greenhouse Automation, Implementation, Monitoring & Analysis](https://www.theseus.fi/handle/10024/812774)
 
-- 📝 Master's Thesis: [LTE-ADVANCED UPLINK PAPR IMPROVEMENT](https://www.theseus.fi/handle/10024/812774)
+ - Master's Thesis: [LTE-Advanced Uplink PAPR Improvement](https://www.theseus.fi/handle/10024/812774)
+
+ - [RESUME](https://drive.google.com/file/d/1c4-uilYO7aw8mdGgzmScdiffWYkiR3bE/view?usp=sharing) 
+
+<h3>🔭 Work Experience</h3>
+
+ - Internship: (13.09.2013 to 13.02.2024)
+   - Company: [Metropolia AIoT Garage](https://www.metropolia.fi/en/rdi/collaboration-platforms/garage)
+    
+   - Role: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
+
+<h3>👨‍💻 Data-Analysis/ML based porfolio Projects</h3>
+
+ - [Portfolio Website](https://siddhartha1986.github.io/SiddharthaPortfolio.github.io/)
+
+ - [EDA-on-Income-Data](https://github.com/Siddhartha1986/EDA-on-income-data/tree/main) , [EDA-Titanic-Data](https://github.com/Siddhartha1986/EDA-Titanic-Data), [SQL-Data-Cleaning](https://github.com/Siddhartha1986/SQL_data_cleaning), [SQL-Porfolio-Project](https://github.com/Siddhartha1986/SQL_data_cleaning)
+
+ - [Irish-Data-ML-Model](https://github.com/Siddhartha1986/Iris-data-ML), [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
+
+<h3>👨‍💻 IoT Based Projects</h3>
+
+- Hackathon: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
+   - [Report](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/Documentation.pdf), [Source Code](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/HACKATHON/src/HACKATHON.cpp)
+
+- Web UI for ABB ventilation controller
+    - [User Manual](https://github.com/Siddhartha1986/Web-Interface-for-ABB-Ventilation-Controller/blob/main/user_manual.pdf), [Source Code](https://github.com/Siddhartha1986/Web-Interface-for-ABB-Ventilation-Controller/tree/main)
+  
+- [Smart Biometric door lock system using ESP32](https://github.com/Siddhartha1986/Smart-Biometric-Door-Lock/tree/main)   
+
+
+
 
 
 - 🔭 I’m currently working on **Image classification AI model to detect construction site material for commercial use, using Google Cloud, Vertex AI(AUTOML)**
