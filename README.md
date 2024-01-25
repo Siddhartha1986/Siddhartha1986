@@ -21,7 +21,7 @@
     
    - Role: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
-<h3>👨‍💻 Data-Analysis/ML based porfolio Projects</h3>
+<h3>👨‍💻 Data-Analysis/ML based portfolio Projects</h3>
 
  - [Portfolio Website](https://siddhartha1986.github.io/SiddharthaPortfolio.github.io/)
 
