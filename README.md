@@ -8,18 +8,18 @@
 
 ## 📝 Theses
 
- - Bachelor Thesis: [Greenhouse Automation, Implementation, Monitoring & Analysis](https://www.theseus.fi/handle/10024/812774)
+ - **Bachelor Thesis**: [Greenhouse Automation, Implementation, Monitoring & Analysis](https://www.theseus.fi/handle/10024/812774)
 
- - Master's Thesis: [LTE-Advanced Uplink PAPR Improvement](https://www.theseus.fi/handle/10024/812774)
+ - **Master's Thesis**: [LTE-Advanced Uplink PAPR Improvement](https://www.theseus.fi/handle/10024/812774)
 
  - [RESUME](https://drive.google.com/file/d/1c4-uilYO7aw8mdGgzmScdiffWYkiR3bE/view?usp=sharing) 
 
 ## 🔭 Work Experience
 
- - Internship: (13.09.2013 to 13.02.2024)
-   - Company: [Metropolia AIoT Garage](https://www.metropolia.fi/en/rdi/collaboration-platforms/garage)
+ - **Internship**: (13.09.2013 to 13.02.2024)
+   - **Company**: [Metropolia AIoT Garage](https://www.metropolia.fi/en/rdi/collaboration-platforms/garage)
     
-   - Role: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
+   - **Role**: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
 ## 👨‍💻 Data-Analysis/ML based portfolio Projects
 
@@ -31,17 +31,17 @@
 
 ## 👨‍💻 IoT Based Projects 
 
-- Hackathon: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
+- **Hackathon**: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
    - [Report](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/Documentation.pdf), [Source Code](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/HACKATHON/src/HACKATHON.cpp)
 
-- Web UI for ABB ventilation controller
+- **Web UI for ABB ventilation controller**
     - [User Manual](https://github.com/Siddhartha1986/Web-Interface-for-ABB-Ventilation-Controller/blob/main/user_manual.pdf), [Source Code](https://github.com/Siddhartha1986/Web-Interface-for-ABB-Ventilation-Controller/tree/main)
   
 - [Smart Biometric door lock system using ESP32](https://github.com/Siddhartha1986/Smart-Biometric-Door-Lock/tree/main)   
 
 ## 👨‍💻 Python Based Minor Projects
 
-- Web Scrapping
+- **Web Scrapping**
 
   - [Web Scrapping Amazon Website](https://github.com/Siddhartha1986/webscrapping123/tree/main)
     
