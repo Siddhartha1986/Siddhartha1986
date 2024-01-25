@@ -39,6 +39,14 @@
   
 - [Smart Biometric door lock system using ESP32](https://github.com/Siddhartha1986/Smart-Biometric-Door-Lock/tree/main)   
 
+<h3>👨‍💻 Python Based Minor Projects</h3>
+
+- [Web Scrapping Amazon Website](https://github.com/Siddhartha1986/webscrapping123/tree/main)
+  
+- [US Largest Companies Web Scraper](https://github.com/Siddhartha1986/webScarpping_table/tree/main)
+
+-
+
 
 
 
