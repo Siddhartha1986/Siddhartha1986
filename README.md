@@ -67,7 +67,7 @@
   <a href="https://linkedin.com/in/siddhartha-lama-31857728" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhartha-lama-31857728" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:lammsidd@gmail.com">
     <img align="center" src="https://i.imgur.com/Sn7xVtJ.jpeg" alt="Email" height="30" width="40" />
   </a>
