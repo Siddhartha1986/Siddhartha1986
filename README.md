@@ -25,7 +25,7 @@
 
  - [Portfolio Website](https://siddhartha1986.github.io/SiddharthaPortfolio.github.io/)
 
- - [EDA-on-Income-Data](https://github.com/Siddhartha1986/EDA-on-income-data/tree/main) , [EDA-Titanic-Data](https://github.com/Siddhartha1986/EDA-Titanic-Data), [SQL-Data-Cleaning](https://github.com/Siddhartha1986/SQL_data_cleaning), [SQL-Porfolio-Project](https://github.com/Siddhartha1986/SQL_data_cleaning)
+ - [EDA-on-Income-Data](https://github.com/Siddhartha1986/EDA-on-income-data/tree/main) , [EDA-Titanic-Data](https://github.com/Siddhartha1986/EDA-Titanic-Data), [SQL-Data-Cleaning](https://github.com/Siddhartha1986/SQL_data_cleaning), [SQL-Porfolio-Project](https://github.com/Siddhartha1986/SQLPortfolioProject/tree/main)
 
  - [Irish-Data-ML-Model](https://github.com/Siddhartha1986/Iris-data-ML), [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
 
