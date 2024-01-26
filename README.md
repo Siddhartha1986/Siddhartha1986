@@ -55,7 +55,7 @@
   
   - [Flipkart Laptop Data Scrapper](https://github.com/Siddhartha1986/Scrapping2)
 
-- [**Simple file soter**](https://github.com/Siddhartha1986/fie_sorter_using_python/tree/main)
+- [**Simple file sorter**](https://github.com/Siddhartha1986/fie_sorter_using_python/tree/main)
 
 - [**Simple Command-Line Note-Taking Application**](https://github.com/Siddhartha1986/notebook_pickle/tree/main)
 
