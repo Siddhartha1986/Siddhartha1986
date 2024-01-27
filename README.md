@@ -60,9 +60,20 @@
 - [**Simple Command-Line Note-Taking Application**](https://github.com/Siddhartha1986/notebook_pickle/tree/main)
 
 
+## 📝 Certification
 
+- [AWS Cloud Foundation Badge](https://www.credly.com/badges/2777ee1a-e77b-486f-b2f9-dc4d4680eaa8/public_url), &nbsp; [Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20240126-29-u2b1r2.pdf)
   
+- [CCNA: Enterprise Networking, Security, and Automation - Badge](https://www.credly.com/badges/31cefb37-48b1-4210-a257-1cc1e1972f2f/public_url), &nbsp; [Letter of Merits](https://github.com/Siddhartha1986/Certifications/blob/main/SiddharthaLama-TX00EI87-3003%20En-letter.pdf), &nbsp; [Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/SiddharthaLama-TX00EI87-3003%20En-certificate.pdf)
 
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/5c04e19f-7842-405a-82e4-1e303b110a17/public_url), &nbsp; [Letter of Merits](https://github.com/Siddhartha1986/Certifications/blob/main/SiddharthaLama-Switching%20Routin-letter.pdf), &nbsp; [Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/SiddharthaLama-Switching%20Routin-certificate.pdf)
+
+- [IoT Security Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/SiddharthaLama-IoT-Security-202-certificate.pdf)
+
+- [Data Science with Python Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/Lama_Siddhartha_Data_Science_with_Python_BroadwayInfosys.pdf)
+
+- [Data Analytics Bootcamp](https://github.com/Siddhartha1986/Certifications/blob/main/data_analystics_bootcamp_siddhartha_lama.png)
+  
 
 
 
