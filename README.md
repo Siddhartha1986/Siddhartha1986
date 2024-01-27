@@ -1,4 +1,4 @@
-![logo](https://github.com/Siddhartha1986/Siddhartha1986/blob/main/Final-Banner.png)
+![logo](https://github.com/Siddhartha1986/Siddhartha1986/blob/main/Simple-Banner.png)
 <h1 align="center">Hi 👋, I'm Siddhartha Lama</h1>
 <h3 align="center">A passionate IT/IoT-Embedded/Telecommunication/Electronics engineer currently living in Finland, originally from Nepal.</h3>
 
