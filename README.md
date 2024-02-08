@@ -10,7 +10,7 @@
 
  - **Bachelor Thesis**: [Greenhouse Automation, Implementation, Monitoring & Analysis](https://www.theseus.fi/handle/10024/812774)
 
- - **Master's Thesis**: [LTE-Advanced Uplink PAPR Improvement](https://www.theseus.fi/handle/10024/812774)
+ - **Master's Thesis**: [LTE-Advanced Uplink PAPR Improvement](https://osuva.uwasa.fi/handle/10024/5299)
 
  - **Checkout my Curriculum Vitae**: [CV](https://drive.google.com/file/d/1c4-uilYO7aw8mdGgzmScdiffWYkiR3bE/view?usp=sharing) 
 
