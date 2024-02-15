@@ -73,7 +73,8 @@
 - [Data Science with Python Certificate](https://github.com/Siddhartha1986/Certifications/blob/main/Lama_Siddhartha_Data_Science_with_Python_BroadwayInfosys.pdf)
 
 - [Data Analytics Bootcamp](https://github.com/Siddhartha1986/Certifications/blob/main/data_analystics_bootcamp_siddhartha_lama.png)
-  
+
+- [Certified ScrumMaster® (CSM®) - CERTIFIED BADGE](https://bcert.me/semjxgmdi)
 
 
 
