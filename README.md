@@ -21,6 +21,8 @@
     
    - **Role**: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
+   - **Source Code & Report** [Source Code](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function), [Report](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function/blob/main/Internship_Project_Report.pdf)
+
 ## 👨‍💻 Data-Analysis/ML based portfolio Projects
 
  - [Portfolio Website](https://siddhartha1986.github.io/SiddharthaPortfolio.github.io/)
