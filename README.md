@@ -21,7 +21,7 @@
     
    - **Role**: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
-   - **Source Code & Report** [Source Code](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function), [Report](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function/blob/main/Internship_Project_Report.pdf)
+   - **Source Code & Report:** [Source Code](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function), [Report](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function/blob/main/Internship_Project_Report.pdf)
 
  - **Internship**: (15.02.2024 to 15.08.2024)
    - **Company**: [ Wizense Ltd ](https://wizense.com/)
@@ -31,7 +31,7 @@
       - Machine learning - object detection, machine learning
       - Algorithm research and development for a 2D lidar.
 
-   - **Source Code** [Source Code](https://github.com/Siddhartha1986/LIDAR-Project-Depth-Measurement)
+   - **Source Code:** [Source Code](https://github.com/Siddhartha1986/LIDAR-Project-Depth-Measurement)
 
 ## 👨‍💻 Data-Analysis/ML based portfolio Projects
 
