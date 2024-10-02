@@ -16,12 +16,22 @@
 
 ## 🔭 Work Experience
 
- - **Internship**: (13.09.2013 to 13.02.2024)
+ - **Internship**: (13.09.2023 to 13.02.2024)
    - **Company**: [Metropolia AIoT Garage](https://www.metropolia.fi/en/rdi/collaboration-platforms/garage)
     
    - **Role**: Automating the process of designing an Image Classification Model using Google Cloud Vertex AI and Cloud Functions.
 
    - **Source Code & Report** [Source Code](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function), [Report](https://github.com/Siddhartha1986/Image-Classification-Pipeline-Using-Cloud-Function/blob/main/Internship_Project_Report.pdf)
+
+ - **Internship**: (15.02.2024 to 15.08.2024)
+   - **Company**: [ Wizense Ltd ](https://wizense.com/)
+    
+   - **Role**:
+      - Google Cloud Vertex AI - labelling, training and testing model
+      - Machine learning - object detection, machine learning
+      - Algorithm research and development for a 2D lidar.
+
+   - **Source Code** [Source Code](https://github.com/Siddhartha1986/LIDAR-Project-Depth-Measurement)
 
 ## 👨‍💻 Data-Analysis/ML based portfolio Projects
 
@@ -36,6 +46,7 @@
  - [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
 
 ## 👨‍💻 IoT Based Projects 
+- [Algorithm research and development for a 2D lidar](https://github.com/Siddhartha1986/LIDAR-Project-Depth-Measurement)
 
 - **Hackathon**: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
    - [Report](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/Documentation.pdf), [Source Code](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system/blob/master/HACKATHON/src/HACKATHON.cpp)
