@@ -46,6 +46,10 @@
  - [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
 
 ## 👨‍💻 IoT Based Projects 
+- **Greenhouse automation and monitoring**:
+     - Implementation and comparative analysis through data collection for automated and non-automated systems.
+     - [Report](https://www.theseus.fi/handle/10024/812774), [Source Code](https://github.com/Siddhartha1986/Greenhouse-automation-design-implementation-field-study/tree/main)
+  
 - [Algorithm research and development for a 2D lidar](https://github.com/Siddhartha1986/LIDAR-Project-Depth-Measurement)
 
 - **Hackathon**: [RTOS-Co2 Monitoring and controlling system Vaisala/Metropolia](https://github.com/Siddhartha1986/RTOS-project-Co2-monitoring-system)
