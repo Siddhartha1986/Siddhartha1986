@@ -12,7 +12,7 @@
 
  - **Master's Thesis**: [LTE-Advanced Uplink PAPR Improvement](https://osuva.uwasa.fi/handle/10024/5299)
 
- - **Checkout my Curriculum Vitae**: [CV](https://github.com/Siddhartha1986/Siddhartha1986/blob/main/CV_Siddhartha_Lama.pdf) 
+ - **Checkout my Curriculum Vitae**: [CV](https://github.com/Siddhartha1986/Siddhartha1986/blob/main/Lama-Siddhartha-CV.pdf) 
 
 ## 🔭 Work Experience
 
