@@ -51,8 +51,8 @@
 ### **Metropolia Nursing AI Helper**
 A web application built for the Metropolia AI project that combines a Finnish–English nursing terminology helper and an AI-powered text summarizer.
 
-- 🔗 **Live Demo:** https://metropolia-ai-helper.onrender.com  
-- 🔗 **Source Code:** https://github.com/Siddhartha1986/metropolia-ai-helper  
+- 🔗 **Live Demo:** [Live Demo](https://metropolia-ai-helper.onrender.com)
+- 🔗 **Source Code:** [Source Code](https://github.com/Siddhartha1986/metropolia-ai-helper) 
 
 **Features:**
 - Flask-based web application  
