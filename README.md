@@ -45,6 +45,30 @@
    
  - [ML-Model-Titanic-KNN](https://github.com/Siddhartha1986/ML_Model_Titanic), [ML-Model-Titanic-Random-Forest](https://github.com/Siddhartha1986/ML_TITANIC_RANDOMFOREST)
 
+🌐 Web Apps & AI Tools
+
+(Flask · Hugging Face · Render Deployment · Full-Stack AI)
+
+Metropolia Nursing AI Helper
+
+A web app built for the Metropolia AI project combining a Finnish–English nursing terminology helper and an AI-powered text summarizer.
+
+🔗 Live Demo: https://metropolia-ai-helper.onrender.com
+
+🔗 Source Code: https://github.com/Siddhartha1986/metropolia-ai-helper
+
+Features:
+
+Flask-based web application
+
+Finnish/English nursing vocabulary search
+
+AI summarizer using HuggingFace BART
+
+Frontend + Backend fully deployed on Render
+
+Secure configuration for HF API tokens
+
 ## 👨‍💻 IoT Based Projects 
 - **Greenhouse automation and monitoring**:
      - Implementation and comparative analysis through data collection for automated and non-automated systems.
